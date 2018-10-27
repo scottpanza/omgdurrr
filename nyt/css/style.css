@@ -1,0 +1,25 @@
+body{
+    background-color: #08aa81
+}
+.container {
+    height: 900px;
+    width: 900px;
+    text-align: center;
+    background-color: #ffffff;
+    padding: 10px 50px 50px 50px;
+    margin: 0 auto;
+   
+}
+#title {
+    width: 900px;
+    height: 100px;
+
+}
+
+form{
+    text-align:left;
+}
+p {
+    text-align: center;
+    vertical-align: middle;
+}
